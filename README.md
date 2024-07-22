@@ -4,6 +4,6 @@ This project focuses on predicting credit risk using the XGBoost algorithm. The 
 ## Project Structure
 - `XGBoost_Credit_risk.ipynb`: Jupyter Notebook containing the analysis and model implementation
 - `data/credit_risk_dataset.csv`: Simulated dataset used for training and testing the model
-- `Schema.xlsx`: Schema file detailing the structure and types of data in the dataset
+- `schema.xlsx`: Schema file detailing the structure and types of data in the dataset
 
 
